@@ -40,3 +40,7 @@ git pull origin dev 拉取代码
 
 git rebase -i  HEAD~3 将最近的3条记录合并
 
+git tag -a v1 -m "第一版" 打上标签
+
+
+
